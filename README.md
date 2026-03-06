@@ -1,4 +1,4 @@
-<p align="center"># 💫 About Me:
+<p align="center">💫 About Me:<br>
 🚀 Embarking on a Coding Journey<br><br>Passionate about exploring the world of technology and continuously learning new skills in programming and development. 💻✨<br><br>🌐 Learning & Growing:<br>🎓 Studying Computer Science and building strong programming fundamentals.<br>💻 Learning Java, JavaScript, and Object-Oriented Programming.<br><br>💡 Coding the Future:<br>• Turning ideas into code.<br>• Growing through continuous learning.<br>• Every line of code is a step toward innovation.<br></p>
 
 
